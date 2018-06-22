@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pylab as plt
-from IPython.html.widgets import *
+from ipywidgets import interact
 t = np.arange(0.0, 1.0, 0.01)
 
 
